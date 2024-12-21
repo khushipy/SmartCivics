@@ -26,8 +26,8 @@ os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
 
 
 ## set up Streamlit 
-st.title("Conversational RAG With PDF uplaods and chat history")
-st.write("Upload Pdf's and chat with their content")
+st.title("Q&A With Your Legal Documents!")
+st.write("Upload Your Legal Document and Ask Your Query!!")
 
 ## Input the Groq API Key
 api_key=os.getenv("GROQ_API_KEY")
