@@ -20,13 +20,18 @@ Project_2_page= st.Page(
     icon=":material/forum:",
     
 )
-
+Project_3_page= st.Page(
+    page="views/youtweb.py",
+    title="Website & Youtube ",
+    icon=":material/youtube_activity:",
+    
+)
 
 #--- NAVIGATION SETUP ---
 pg = st.navigation(
     {
         "Info": [about_page],
-        "AI Assistance": [Project_1_page,Project_2_page],
+        "AI Assistance": [Project_1_page,Project_2_page,Project_3_page],
     }
 )
 
@@ -36,6 +41,18 @@ st.sidebar.text("Made By Khushi Pal🦭")
 
 
 
+
+
+
+
+
+
+
+
+
+
+#---- RUN NAVIGATION --- 
+pg.run()
 
 
 
