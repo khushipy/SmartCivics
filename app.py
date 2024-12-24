@@ -9,7 +9,7 @@ about_page = st.Page(
     default=True,
 )
 Project_1_page = st.Page(
-    page="views/chatbot.py",
+    page="views/chatbot1.py",
     title="Legal ChatBot",
     icon=":material/smart_toy:",
     
