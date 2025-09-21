@@ -1,13 +1,17 @@
-# Smart Civics: AI-Powered Learning of Constitutional Law  
-
+## Smart Civics: AI-Powered Learning of Constitutional Law  
 Smart Civics is an **AI-powered platform** designed to make constitutional law and civic education more **accessible, engaging, and practical**. By leveraging **Retrieval-Augmented Generation (RAG)**, **Conversational AI**, and **summarization tools**, the system simplifies complex legal concepts into easy-to-understand modules, empowering students, professionals, and citizens.  
 
 ---
 ## Preview
+Home Page :
 <img width="800" height="351" alt="image" src="https://github.com/user-attachments/assets/e8b4bc5d-97f3-47b4-bd0b-37a3ea1851b6" />
+User login :
 <img width="800" height="367" alt="image" src="https://github.com/user-attachments/assets/28010fcb-6a38-45eb-9cd3-5a76e248d925" />
+PDF document Query resolver :
 <img width="800" height="366" alt="image" src="https://github.com/user-attachments/assets/232678f2-0e22-4b2b-a5e9-1683a95b5b23" />
+Youtube & website Summarizer : 
 <img width="800" height="362" alt="image" src="https://github.com/user-attachments/assets/b4843351-08b1-4670-acdf-580eb84db933" />
+Chatbot Working :
 <img width="800" height="358" alt="image" src="https://github.com/user-attachments/assets/445e5044-9aa4-4b70-8492-6276d6ab5758" />
 
 
